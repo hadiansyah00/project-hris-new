@@ -1,0 +1,32 @@
+<?php
+
+// override core en language system validation or define your own en language validation message
+return [
+	'xin_admin_login' => 'Masuk Menggunakan ',
+	'xin_ci_login_to_your_account' => 'Masuk ke akun Anda',
+	'xin_employee_password' => 'Kata Sandi',
+	'xin_forgot_password_link' => 'Lupa Kata Sandi?',
+	'xin_login_enter_password' => 'Masukkan kata Sandi',
+	'xin_login' => 'Masuk',
+	'xin_login_username' => 'Username Anda',
+	'xin_login_email' => 'Email Anda',
+	'dashboard_username' => 'Username',
+	'dashboard_email' => 'Email',
+	'xin_toast_error_title' => 'Kesalahan',
+	'xin_toast_success_title' => 'Berhasil',
+	'xin_processing_request' => 'Anda akan diarahkan ke menu utama..',
+	'xin_login_title' => 'Masuk',
+	'xin_employee_error_username' => "Username wajib diisi",
+	'xin_employee_error_email' => "Email wajib diisi",
+	'xin_employee_error_invalid_email' => "Salah format email",
+	'xin_employee_error_password' => "Password Wajin diisi.",
+	'xin_min_error_password' => "Kata sandi Anda terlalu pendek, diperlukan minimal 6 karakter.",
+	'xin_error_invalid_credentials' => 'Kredensial Masuk Tidak Valid',
+	'xin_error_account_not_active' => 'Akunmu tidak aktif.',
+	'xin_success_logged_in' => 'Berhasil Masuk.',
+	'xin_error_max_attempts' => 'akun anda terkunci, Coba lagi setelah satu menit.',
+	'xin_welcome_to' => 'Selamat datang',
+	'xin_welcome_back_please_login' => 'Selamat datang kembali, Silahkan login ke akun',
+	'xin_verify_email_use_trial_version' => 'Harap verifikasi alamat email Anda untuk menggunakan TimeHRM versi percobaan',
+	'xin_login' => 'Masuk',
+];

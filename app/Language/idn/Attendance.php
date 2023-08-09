@@ -1,0 +1,31 @@
+<?php
+
+//Dashboard override core en language system validation or define your own en language validation message
+return [
+	'xin_attendance_calendar' => 'Absensi Kalender',
+	'xin_daily_attendance_report' => 'Laporan Kehadiran Harian',
+	'xin_office_shift_not_assigned' => 'Shift tidak ditetapkan',
+	'dashboard_clock_in' => 'Jam masuk',
+	'dashboard_clock_out' => 'Jam Keluar',
+	'dashboard_late' => 'Terlambat',
+	'dashboard_early_leaving' => 'Berangkat Lebih Awal',
+	'dashboard_overtime' => 'Lembur',
+	'dashboard_total_work' => 'Total Kerja',
+	'dashboard_total_rest' => 'Total Istirahat',
+	'xin_attendance_date' => 'Tanggal Kehadiran',
+	'xin_attendance_month' => 'Bulan Kehadiran',
+	'xin_edit_attendance' => 'Edit Kehadiran',
+	'xin_add_attendance' => 'Tambah Kehadiran',
+	'xin_overtime_thours' => 'Total Jam',
+	'xin_add_overtime_request' => 'Tambahkan Permintaan Lembur',
+	'xin_edit_overtime_request' => 'Edit Permintaan Lembur',
+	'attendance_present' => 'Hadiah',
+	'attendance_absent' => 'Absen',
+	'attendance_today' => 'Hari ini',
+	'attendance_today' => 'Hari ini',
+	'no_set_schedule' => 'Tidak ada jadwal kerja',
+	'dashboard_my_attendance' => 'Kehadiran Saya',
+	'xin_filter_attendance_month' => 'Filter Kehadiran Bulanan',
+	'xin_attendance_information' => 'Informasi Kehadiran',
+	'xin_attendance_details' => 'Detail kehadiran',
+];

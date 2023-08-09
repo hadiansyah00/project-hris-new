@@ -1,0 +1,37 @@
+<?php
+
+// override core en language system validation or define your own en language validation message
+return [
+	'xin_asset_name' => 'Nama Aset',
+	'xin_company_asset_code' => 'Kode Aset',
+	'xin_is_working' => 'Berhasil',
+	'xin_manufacturer' => 'Manufacturer',
+	'xin_serial_number' => 'Nomor Seri (Serial Number)',
+	'xin_warranty_end_date' => 'Tanggal Akhir Garansi',
+	'xin_asset_image' => 'Gambar Aset',
+	'xin_asset_allowed_image_formats' => 'Format yang di izinkan : jpg, png, jpeg, gif',
+	'xin_asset_note' => 'Catatan Aset',
+	'xin_purchase_date' => 'Tanggal Pembelian',
+	'xin_error_category_field' => 'Bidang Kategori Wajib Diisi.',
+	'xin_error_brand_field' => 'Bidang Merk Harus Diisi.',
+	'xin_error_asset_name_field' => 'Nama Asset Harus Diisi.',
+	'xin_error_asset_image_field' => 'Gambar Asset Harus Diisi.',
+	'xin_success_asset_added' => 'Asset Berhasil ditambah.',
+	'xin_success_asset_deleted' => 'Asset Dihapus.',
+	'xin_success_asset_updated' => 'Asset berhasil diedit.',
+	'xin_edit_asset' => 'Edit Asset',
+	'xin_view_asset' => 'View Asset',
+	'xin_edit_assets_category' => 'Edit Kategori Asset ',
+	'xin_edit_assets_brand' => 'Edit Merk Asset ',
+	'xin_error_cat_name_field' => 'Bidang Kategori Wajib Diisi.',
+	'xin_success_assets_category_added' => 'Kategori Assets  Berhasil ditambahkan.',
+	'xin_success_assets_category_deleted' => 'Kategori Assets dihapus.',
+	'xin_success_assets_category_updated' => 'Kategori Assets berhasil diedit.',
+	'xin_brand' => 'merek',
+	'xin_brands' => 'Banyak merk',
+	'xin_asset_brand' => 'Merek Asset',
+	'xin_asset_category' => 'Kategori Asset',
+	'xin_asset_brands' => 'banyak Merk',
+	'xin_asset_categories' => 'Kategori Asset',
+
+];
