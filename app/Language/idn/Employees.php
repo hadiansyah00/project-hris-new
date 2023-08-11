@@ -163,7 +163,7 @@ return [
 	'xin_document_file' => 'Berkas Dokumen',
 	'xin_document_eg_payslip_etc' => 'Contoh Slip Gaji',
 	'xin_add_document' => 'Tambah Dokumen',
-	'xin_e_details_d_type_file' => "Tipe Gambar yang diunggah: png, jpg, jpeg, gif, txt, pdf, xls, xlsx, doc, docx",
+	'xin_e_details_d_type_file' => "Tipe File yang diunggah: png, jpg, jpeg, gif, txt, pdf, xls, xlsx, doc, docx",
 	'xin_payroll_net_salary' => 'Gajih bersih',
 	'xin_notice_date' => 'Tanggal Pemberitahuan',
 	'xin_resignation_date' => 'Tanggal Pengunduran Diri',
